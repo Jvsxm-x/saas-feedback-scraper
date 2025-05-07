@@ -1,0 +1,17 @@
+{
+  "name": "saas-feedback-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "cheerio": "^1.0.0",
+    "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6",
+    "node-cron": "^3.0.2",
+    "puppeteer": "^19.0.0",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
