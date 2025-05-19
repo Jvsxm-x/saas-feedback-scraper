@@ -1,50 +1,56 @@
 [
   {
-    "id": "25ea60a8-80a8-4298-b64b-0017ddf1e49e",
-    "name": "Dior Addict Lip Glow Balm",
-    "description": "15 Colors",
-    "price": "$40.00",
-    "source": "https://www.sephora.com/brand/dior/all",
-    "timestamp": "2025-05-07T19:47:13.879Z"
+    "id": "a1b2c3d4-e5f6-7890-ab12-cdef34567890",
+    "name": "YSL Rouge Pur Couture Lipstick",
+    "price": "39.00",
+    "currency": "USD",
+    "description": "10 Shades",
+    "source": "https://www.sephora.com/brand/ysl/all",
+    "timestamp": "2025-05-17T14:32:10.123Z"
   },
   {
-    "id": "c5a18640-ed03-4a37-8bea-7cdde76a6d4c",
-    "name": "BACKSTAGE Glow Face Palette",
-    "description": "2 Colors",
-    "price": "$48.00",
-    "source": "https://www.sephora.com/brand/dior/all",
-    "timestamp": "2025-05-07T19:47:13.880Z"
+    "id": "b2c3d4e5-f6a7-8901-bc23-def456789012",
+    "name": "Charlotte Tilbury Airbrush Flawless Setting Spray",
+    "price": "38.00",
+    "currency": "USD",
+    "description": "100 ml",
+    "source": "https://www.sephora.com/brand/charlotte-tilbury/all",
+    "timestamp": "2025-05-17T14:33:11.456Z"
   },
   {
-    "id": "0cc01110-771a-4ce8-abda-d8544db3955c",
-    "name": "Dior Addict Lip Maximizer Plumping Gloss",
-    "description": "24 Colors",
-    "price": "$40.00",
-    "source": "https://www.sephora.com/brand/dior/all",
-    "timestamp": "2025-05-07T19:47:13.881Z"
+    "id": "c3d4e5f6-a7b8-9012-cd34-ef5678901234",
+    "name": "Rare Beauty Soft Pinch Liquid Blush",
+    "price": "23.00",
+    "currency": "USD",
+    "description": "12 Shades",
+    "source": "https://www.sephora.com/brand/rare-beauty/all",
+    "timestamp": "2025-05-17T14:34:12.789Z"
   },
   {
-    "id": "38e19fde-db9a-4dea-8d74-3e7c1c8359dd",
-    "name": "Lip Glow Oil",
-    "description": "14 Colors",
-    "price": "$40.00",
-    "source": "https://www.sephora.com/brand/dior/all",
-    "timestamp": "2025-05-07T19:47:13.882Z"
+    "id": "d4e5f6a7-b8c9-0123-de45-f67890123456",
+    "name": "Fenty Beauty Pro Filt’r Foundation",
+    "price": "40.00",
+    "currency": "USD",
+    "description": "50 Shades",
+    "source": "https://www.sephora.com/brand/fenty-beauty/all",
+    "timestamp": "2025-05-17T14:35:13.101Z"
   },
   {
-    "id": "34c25c65-e169-43e2-a994-025299d81ada",
-    "name": "Rosy Glow Blush",
-    "description": "8 Colors",
-    "price": "$40.00",
-    "source": "https://www.sephora.com/brand/dior/all",
-    "timestamp": "2025-05-07T19:47:13.882Z"
+    "id": "e5f6a7b8-c9d0-1234-ef56-789012345678",
+    "name": "Too Faced Better Than Sex Mascara",
+    "price": "29.00",
+    "currency": "USD",
+    "description": "Waterproof",
+    "source": "https://www.sephora.com/brand/too-faced/all",
+    "timestamp": "2025-05-17T14:36:14.202Z"
   },
   {
-    "id": "3414a3b9-ed0c-41ba-b2d9-ddb3ebed6a52",
-    "name": "Forever Skin Perfect 24H Multi-Use Foundation Stick",
-    "description": "18 Colors",
-    "price": "$52.00",
-    "source": "https://www.sephora.com/brand/dior/all",
-    "timestamp": "2025-05-07T19:47:13.883Z"
+    "id": "f6a7b8c9-d0e1-2345-f067-890123456789",
+    "name": "Huda Beauty Nude Obsessions Eyeshadow Palette",
+    "price": "32.00",
+    "currency": "USD",
+    "description": "9 Shades",
+    "source": "https://www.sephora.com/brand/huda-beauty/all",
+    "timestamp": "2025-05-17T14:37:15.303Z"
   }
 ]
